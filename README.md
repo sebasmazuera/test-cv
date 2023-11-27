@@ -1,4 +1,4 @@
-![foto]()
+![foto](https://github.com/sebasmazuera/test-cv/blob/main/Design%20sans%20titre.png)
 # Présentation
 Bonjour, permettez-moi de me présenter Sebastian Mazuera,  dévoué et motivé, Prêt à mettre ses capacités à votre disposition.
 ## Formation
