@@ -1,4 +1,4 @@
-![foto presentation (https://www.facebook.com/photo/?fbid=10221637817277471&set=a.1605405697774&locale=fr_FR)]
+![foto presentation ()]
 # Présentation
 Bonjour, permettez-moi de me présenter Sebastian Mazuera,  dévoué et motivé, Prêt à mettre ses capacités à votre disposition.
 ## Formation
@@ -24,5 +24,7 @@ Bonjour, permettez-moi de me présenter Sebastian Mazuera,  dévoué et motivé,
 
  ## Hobbies
 **Motocros**
- **Box**
- **la course**
+
+**Box**
+
+**la course**
