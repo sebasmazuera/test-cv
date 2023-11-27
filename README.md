@@ -1,6 +1,6 @@
 ![foto](https://github.com/sebasmazuera/test-cv/blob/main/titre.png)
 # Présentation
-Bonjour, permettez-moi de me présenter Sebastian Mazuera,  dévoué et motivé, Prêt à mettre ses capacités à votre disposition.
+Bonjour, permettez-moi de me présenter [Sebastian Mazuera](https://www.linkedin.com/in/sebastian-mazuera-2b2a1b229/),  dévoué et motivé, Prêt à mettre ses capacités à votre disposition.
 ## Formation
   **Lycée Français Louis Pasteur Bogotá**, _Colombia De Septembre 2015 à juin 2016 Baccalauréat scientifique,Spécialisation en Spécialisation en I.S.N_
   
