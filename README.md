@@ -1,4 +1,4 @@
-![foto presentation ()]
+![foto]()
 # Présentation
 Bonjour, permettez-moi de me présenter Sebastian Mazuera,  dévoué et motivé, Prêt à mettre ses capacités à votre disposition.
 ## Formation
